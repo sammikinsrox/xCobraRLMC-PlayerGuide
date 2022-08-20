@@ -125,10 +125,10 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 # <span style="color:#26a9e5">**[Member]**</span> Full Member - How to Become - Privileges - Commands -
 
 ### **You Can:**
-- Break Blocks.
-- Place Blocks.
-- Claim Land.
-- Create personal shops.
+> - Break Blocks.
+> - Place Blocks.
+> - Claim Land.
+> - Create personal shops.
 
 - #### **Land Claims**:
 > - Create <span style="color:red">**one**</span> chest claim by <span style="color:orange">**placing a chest**</span> ![Chest](https://raw.githubusercontent.com/sammikinsrox/Rendered-Minecraft-Icons/main/img/30px/png/Chest_JE2.png) in the wilderness.
