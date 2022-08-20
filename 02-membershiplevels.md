@@ -1,11 +1,3 @@
----
-has_children: true
-layout: default
-title: Home - Welcome to the Minecraft Server
-nav_order: 1
-has_toc: true
----
-
 # Membership Levels
 ## <span style="color:#00cc00">**[Guest]**</span> Server Guest - Privileges - Commands -
 
