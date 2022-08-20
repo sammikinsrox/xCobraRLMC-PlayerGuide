@@ -1,3 +1,10 @@
+---
+has_children: true
+layout: default
+title: Home - Welcome to the Minecraft Server
+nav_order: 1
+---
+
 # Welcome to the Minecraft Server.
 
 You are highly encouraged to read over all of the material in this guide. Make sure to [SEE FAQ HERE](#quick-faq) to if your question is already answered.
