@@ -281,8 +281,11 @@ There are no guarantees, though. You may become a long time member and never get
 >   - <span style="color:orange;">**RIGHT CLICK**</span> the shop you want to add another location for.
 >   - Click on the <span style="color:orange">**ANVIL**</span> ![Anvil](https://raw.githubusercontent.com/sammikinsrox/MCIcons/main/img/30px/png/Anvil_JE3.png) to "<span style="color:orange">**Add a Location**</span>"
 >   - Then <span style="color:orange">**RIGHT CLICK**</span> your chosen block to add a location.
-
+    
 ## How do I delete my shop location?
+> - Simply destroy the block that the shop location is bound to.
+
+## How do I delete my shop?
 > - <span style="color:red">**First remove all items that you've deposited into the shop.**</span>
 >   - To do this type `/pshop <YourName>`
 >   - <span style="color:orange">**RIGHT CLICK**</span> your shop in the list
