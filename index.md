@@ -108,7 +108,7 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 ### **Limitations:**
 > - <span style="color:orange">**0 shops**</span> with <span style="color:orange">**0 location**</span> for <span style="color:orange">***each shop***</span>.
 > - <span style="color:orange">**0 Claims**</span>.
-> - <span style="color:orange">**512 Total Items**</span> in your shop listing.
+> - <span style="color:orange">**0 Total Items**</span> in your shop listing (because you can't own a shop).
 > - For more perks, see <span style="color:#0066ff">**[Member]**</span>
 
 #### **How do I become a Full <span style="color:#0066ff">[Member]</span>**?
