@@ -127,7 +127,7 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 
 ## **How do I become a Full <span style="color:#0066ff">[Member]</span>**?
 
-> - Play on the Minecraft server, talk in the Discord server; and get to know the community. Becoming a full member doesn't take terrible long.
+> - Play on the Minecraft server, talk in the Discord server; and get to know the community. Becoming a full member doesn't take very long.
 
 [( ↥ Back to top ↥ )](#faq-and-navigation)
 
