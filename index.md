@@ -48,7 +48,7 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
     - [How to make a claim](#how-to-make-a-claim)
     - [How can I claim more land?](#how-can-i-claim-more-land)
     - [How do I get more claim blocks?](#how-do-i-get-more-claim-blocks)
-    - [I receive the message: <span style="color:red">**You don't have enough blocks to claim that entire area.**"</span>](#i-receive-the-message-you-dont-have-enough-blocks-to-claim-that-entire-area)
+    - [I receive the message: <span style="color:red">**"You don't have enough blocks to claim that entire area.**"</span>](#i-receive-the-message-you-dont-have-enough-blocks-to-claim-that-entire-area)
     - [**Claim Walkthrough: Creating Chest and Golden Shovel Claims**](#claim-walkthrough-creating-chest-and-golden-shovel-claims)
     - [**How to <span style="color:orange">RENT</span> or <span style="color:orange">SELL</span> a claim.**](#how-to-rent-or-sell-a-claim)
 - [Shops FAQ](#shops-faq)
