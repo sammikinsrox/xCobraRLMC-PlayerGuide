@@ -15,6 +15,13 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 > - [xCobraRL](https://twitch.tv/xCobraRL)
 > - [Jesssssss__](https://www.twitch.tv/jesssssss__)
 
+### Staff Members
+> - [OWNER]         **Kristaina** (Discord: **Kristaina#9999**)
+> - [ENGINEER]      **Sam** (Discord: **Sammikinz#9480**)
+> - [Administrator] **Ceehvu** (Discord: **Ceehvu#8086**)
+> - [Mod]           **Jess**
+> - [Mod]           **Cobra**
+
 ### <span style="color:#00cc00">**Can't move when you first join?**</span>
 > - [Read This](#when-you-first-join-you-will-be-unable-to-move-or-chat)
 
