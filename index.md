@@ -233,7 +233,7 @@ There are no guarantees, though. You may become a long time member and never get
 ## **Claim Walkthrough: Creating Chest and Golden Shovel Claims**
 
 > - To make a <span style="color:orange">**CHEST CLAIM**</span>, simply place a chest on a plot of land <span style="color:orange">**where there isn't already a claim**</span>.
-> - To make a <span style="color:orange">**GOLDEN SHOVEL CLAIM**</span>, you must first equip a <span style="color:orange">**Golden Shovel**![Golden Shovel](https://raw.githubusercontent.com/sammikinsrox/Rendered-Minecraft-Icons/main/img/30px/png/Golden_Shovel_JE3_BE2.png)</span> then right click the ground where you want one corners of your claim to be. <span style="color:orange">**NOTE: You only need to select two opposing corners** ↖↘</span>.
+> - To make a <span style="color:orange">**GOLDEN SHOVEL CLAIM**</span>, you must first equip a <span style="color:orange">**Golden Shovel**![Golden Shovel](https://raw.githubusercontent.com/sammikinsrox/Rendered-Minecraft-Icons/main/img/30px/png/Golden_Shovel_JE3_BE2.png)</span> then right click the ground where you want one corners of your claim to be. <span style="color:orange">**NOTE: You only need to select two opposing corners**</span> ↖↘
 
 ## How to <span style="color:orange">RENT</span> or <span style="color:orange">**SELL**</span> a claim.
 >   - On the sign text enter:
