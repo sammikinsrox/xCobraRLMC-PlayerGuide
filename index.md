@@ -5,8 +5,6 @@ title: Home - Welcome to the Minecraft Server
 nav_order: 1
 ---
 
-{:toc}
-
 # Welcome to the Minecraft Server.
 
 You are highly encouraged to read over all of the material in this guide. Make sure to [SEE FAQ HERE](#quick-faq) to if your question is already answered.
@@ -24,8 +22,6 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 ### <span style="color:#00cc00">**Can't move when you first join?**</span>
 > - [Read This](#when-you-first-join-guest)
 
-
-<!-- 
 - - -
 
 # FAQ and Navigation
@@ -65,7 +61,6 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
     - [How do I edit a shop?](./05-shopsfaq.md/#how-do-i-edit-a-shop)
     - [Can I add more than one location for the same shop?](./05-shopsfaq.md/#can-i-add-more-than-one-location-for-the-same-shop)
     - [How do I delete my shop location?](./05-shopsfaq.md/#how-do-i-delete-my-shop-location)
-
+{:toc}
 
 - - -
- -->
