@@ -66,8 +66,12 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 ## **<span style="color:red">_When you first join you will be unable to move or chat._</span>**
 >You must link your <span style="color:red">**Minecraft Account**</span> to your <span style="color:red">**Discord Account**</span> from within our <span style="color:red">**Discord Server**</span>.
 
-> When you first join: <span style="color:red">**open chat and type /chat**</span>
-> 
+> When you first join: 
+> - <span style="color:red">Open chat and type `/chat`/span>
+> - Click on the <span style="color:red">RED SQUARE</span>
+> - Copy / Write / Remember the code presented to you in the chat.
+> - Go back to our Discord Server.
+> - Message `SpaceXMCBot` with your code.
 > **⬇⬇⬇ <span style="color:#00cc00">Reference the image below</span> ⬇⬇⬇**
 
 ![How to link](https://github.com/sammikinsrox/xCobraRLMC-PlayerGuide/blob/main/img/Vz0QDiE.gif?raw=true)
