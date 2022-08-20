@@ -134,7 +134,7 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 > - Claim Land.
 > - Create personal shops.
 
-- ### **Land Claims**:
+- ### Land Claims:
 > - Create <span style="color:red">**one**</span> chest claim by <span style="color:orange">**placing a chest**</span> ![Chest](https://raw.githubusercontent.com/sammikinsrox/Rendered-Minecraft-Icons/main/img/30px/png/Chest_JE2.png) in the wilderness.
 >   - *<span style="color:red">**If you already own a claim, you may not make additional claims by using a chest.**</span>*
 > - Create a normal land claim by <span style="color:orange">**using a golden shovel**</span> ![Golden Shovel](https://raw.githubusercontent.com/sammikinsrox/Rendered-Minecraft-Icons/main/img/30px/png/Golden_Shovel_JE3_BE2.png)
@@ -144,14 +144,14 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 > - Rent a claim by <span style="color:orange">**placing a sign**</span>![Sign](https://github.com/sammikinsrox/Rendered-Minecraft-Icons/blob/main/img/30px/png/Acacia_Sign_JE2.png?raw=true)
 >   - <span style="color:orange">[How to sell or rent claims.](#how-to-rent-or-sell-a-claim)
 
-- ### **Shops**:
+- ### Shops:
 > - Create shops with: `/pshop create <YourName>`
 > - Edit shops with: `/pshop <YourName>`
 > - Delete a shop with: `/pshop <YourName>`
 > - As a member, <span style="color:orange">**you are limited to 5 shops and 1 location**</span> per shop.
 >   -  [See full shop FAQ here.](#shops-faq)
 
-## **Limitations:**
+## Limitations:
 > - All of the perks listed for <span style="color:#00cc00">**[Guests]**</span>.
 > - <span style="color:orange">**5 shops**</span> with <span style="color:orange">**1 location**</span> for <span style="color:orange">***each shop***</span>.
 > - <span style="color:orange">**512 Total Items**</span> in your shop listing for each shop.
@@ -163,7 +163,7 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 
 # <span style="color:#00cc00">**[VIP]**</span> VIP Member - How to Become - Privileges - Commands -
 
-## **Limitations:**
+## Limitations:
 > - All of the information listed for <span style="color:#00cc00">**[Guest]**</span> and <span style="color:#26a9e5">**[Member]**</span> in addition to.
 > - <span style="color:orange">**50 shops**</span> with <span style="color:orange">**4 location**</span> for <span style="color:orange">***each shop***</span>.
 > - <span style="color:orange">**2048 Total Items**</span> in your shop listing for each shop.
@@ -235,7 +235,7 @@ There are no guarantees, though. You may become a long time member and never get
 > - To make a <span style="color:orange">**CHEST CLAIM**</span>, simply place a chest on a plot of land <span style="color:orange">**where there isn't already a claim**</span>.
 > - To make a <span style="color:orange">**GOLDEN SHOVEL CLAIM**</span>, you must first equip a <span style="color:orange">**Golden Shovel**![Golden Shovel](https://raw.githubusercontent.com/sammikinsrox/Rendered-Minecraft-Icons/main/img/30px/png/Golden_Shovel_JE3_BE2.png)</span> then right click the ground where you want one corners of your claim to be. <span style="color:orange">**NOTE: You only need to select two opposing corners** ↖↘</span>.
 
-## **How to <span style="color:orange">RENT</span> or <span style="color:orange">SELL</span> a claim.**
+## How to <span style="color:orange">RENT</span> or <span style="color:orange">**SELL**</span> a claim.
 >   - On the sign text enter:
 >       - `gd`
 >       - `rent` or `sell`
@@ -280,8 +280,8 @@ There are no guarantees, though. You may become a long time member and never get
 >   - Open the shop GUI with `/pshop <YourName>`
 >   - <span style="color:orange;">**RIGHT CLICK**</span> the shop you want to add another location for.
 >   - Click on the <span style="color:orange">**ANVIL**</span> ![Anvil](https://raw.githubusercontent.com/sammikinsrox/MCIcons/main/img/30px/png/Anvil_JE3.png) to "<span style="color:orange">**Add a Location**</span>"
-> 
 >   - Then <span style="color:orange">**RIGHT CLICK**</span> your chosen block to add a location.
+
 ## How do I delete my shop location?
 > - <span style="color:red">**First remove all items that you've deposited into the shop.**</span>
 >   - To do this type `/pshop <YourName>`
