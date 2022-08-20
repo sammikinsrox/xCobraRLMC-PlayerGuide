@@ -82,9 +82,9 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 
 - - -
 
-# <span style="color:#00cc00">**[Guest]**</span> Server Guest - Privileges - Commands -
+# <span style="color:#00cc00">**[Guest]**</span> Server Guest - Privileges - Commands
 
-### **You Can:**
+## **You Can:**
 > - Interact with blocks (Not place or destroy blocks).
 > - Craft Items in benches that have already been placed.
 > - Interact with shops and banks.
@@ -100,7 +100,7 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 > - Use `/disposal` to throw away stuff you don't want
 > - <span style="color:#00cc66">***Be an kind and amazing person***</span> ❤️
 
-### **You Can't:**
+## **You Can't:**
 > - Break Blocks. (<span style="color:orange">You must be promoted to gain permission</span>)
 > - Place Blocks. (<span style="color:orange">You must be promoted to gain permission</span>)
 > - Claim Land. (<span style="color:orange">You must be promoted to gain permission</span>)
@@ -108,13 +108,13 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 > - Create any personal shops. (<span style="color:orange">You must be promoted to gain permission</span>)
 > - <span style="color:red">**Break the rules. You'll be removed.**</span>
 
-### **Limitations:**
+## **Limitations:**
 > - <span style="color:orange">**0 shops**</span> with <span style="color:orange">**0 location**</span> for <span style="color:orange">***each shop***</span>.
 > - <span style="color:orange">**0 Claims**</span>.
 > - <span style="color:orange">**0 Total Items**</span> in your shop listing (because you can't own a shop).
 > - For more perks, see <span style="color:#0066ff">**[Member]**</span>
 
-#### **How do I become a Full <span style="color:#0066ff">[Member]</span>**?
+## **How do I become a Full <span style="color:#0066ff">[Member]</span>**?
 
 > - Play on the Minecraft server, talk in the Discord server; and get to know the community. Becoming a full member doesn't take terrible long.
 
