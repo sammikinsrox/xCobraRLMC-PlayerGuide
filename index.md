@@ -70,7 +70,7 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 > 
 > **⬇⬇⬇ <span style="color:#00cc00">Reference the image below</span> ⬇⬇⬇**
 
-![How to link](https://i.imgur.com/Vz0QDiE.gif)
+![How to link](https://github.com/sammikinsrox/xCobraRLMC-PlayerGuide/blob/main/img/Vz0QDiE.gif?raw=true)
 
 
 > When you see the message:
