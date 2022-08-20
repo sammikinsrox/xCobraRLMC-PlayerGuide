@@ -94,7 +94,9 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 > - Pick up loot and money from creatures.
 > - Walk around and look at the builds.
 > - Tame animals.
-> - Buy from players.
+> - Buy from player shops.
+> - Buy claims that are for sale.
+> - Rent claims that are for sale.
 > - Use `/disposal` to throw away stuff you don't want
 > - <span style="color:#00cc66">***Be an kind and amazing person***</span> ❤️
 
@@ -103,6 +105,7 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 > - Place Blocks. (<span style="color:orange">You must be promoted to gain permission</span>)
 > - Claim Land. (<span style="color:orange">You must be promoted to gain permission</span>)
 > - Destroy other people's claims.
+> - Create any personal shops. (<span style="color:orange">You must be promoted to gain permission</span>)
 > - <span style="color:red">**Break the rules. You'll be removed.**</span>
 
 ### **Limitations:**
@@ -122,6 +125,11 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 # <span style="color:#26a9e5">**[Member]**</span> Full Member - How to Become - Privileges - Commands -
 
 ### **You Can:**
+- Break Blocks.
+- Place Blocks.
+- Claim Land.
+- Create personal shops.
+
 - #### **Land Claims**:
 > - Create <span style="color:red">**one**</span> chest claim by <span style="color:orange">**placing a chest**</span> ![Chest](https://raw.githubusercontent.com/sammikinsrox/Rendered-Minecraft-Icons/main/img/30px/png/Chest_JE2.png) in the wilderness.
 >   - *<span style="color:red">**If you already own a claim, you may not make additional claims by using a chest.**</span>*
