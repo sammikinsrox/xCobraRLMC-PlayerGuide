@@ -1,4 +1,4 @@
-#Membership Levels
+# Membership Levels
 ## <span style="color:#00cc00">**[Guest]**</span> Server Guest - Privileges - Commands -
 
 ### **You Can:**
