@@ -5,6 +5,8 @@ title: Home - Welcome to the Minecraft Server
 nav_order: 1
 ---
 
+{:toc}
+
 # Welcome to the Minecraft Server.
 
 You are highly encouraged to read over all of the material in this guide. Make sure to [SEE FAQ HERE](#quick-faq) to if your question is already answered.
@@ -22,6 +24,8 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 ### <span style="color:#00cc00">**Can't move when you first join?**</span>
 > - [Read This](#when-you-first-join-guest)
 
+
+<!-- 
 - - -
 
 # FAQ and Navigation
@@ -64,3 +68,4 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 
 
 - - -
+ -->
