@@ -23,6 +23,7 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 # FAQ and Navigation
 
 - [Welcome to the Minecraft Server.](#welcome-to-the-minecraft-server)
+    - [Want to know how to connect?](#reading-this-and-want-to-know-how-to-connect)
     - [Discord](#discord)
     - [Main Content Creators of our Community](#main-content-creators-of-our-community)
     - [<span style="color:#00cc00">**Can't move when you first join?**</span>](#cant-move-when-you-first-join)
