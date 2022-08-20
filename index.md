@@ -1,6 +1,6 @@
 # Welcome to the Minecraft Server.
 
-You are highly encouraged to read over all of the material in this guide. Make sure to [SEE FAQ HERE](#quick-faq) to if your question is already answered.
+**You are highly encouraged to read over all of the material in this guide.**
 
 If your question is not answered from the information below.
 Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-chat**</span> on our **[Discord](https://discord.gg/n3BXRmmuk2).**
