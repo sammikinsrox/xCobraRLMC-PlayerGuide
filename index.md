@@ -46,7 +46,7 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
     - [How do I get more claim blocks?](#how-do-i-get-more-claim-blocks)
     - [I receive the message: <span style="color:red">**You don't have enough blocks to claim that entire area.**"</span>](#i-receive-the-message-you-dont-have-enough-blocks-to-claim-that-entire-area)
     - [**Claim Walkthrough: Creating Chest and Golden Shovel Claims**](#claim-walkthrough-creating-chest-and-golden-shovel-claims)
-      - [**How to <span style="color:orange">RENT</span> or <span style="color:orange">SELL</span> a claim.**](#how-to-rent-or-sell-a-claim)
+    - [**How to <span style="color:orange">RENT</span> or <span style="color:orange">SELL</span> a claim.**](#how-to-rent-or-sell-a-claim)
 - [Shops FAQ](#shops-faq)
     - [Open your shop interface with `/pshop <YourName>`](#open-your-shop-interface-with-pshop-yourname)
     - [How do I create a shop?](#how-do-i-create-a-shop)
@@ -73,6 +73,8 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 > `"Your minecraft account has been linked to your discord account. You have successfully linked your Minecraft account to your Discord Profile"` Congratulations, You are successfully linked and can now start playing on our server. *(See below)*
 
 ![How to link](https://i.imgur.com/xfa62rP.png)
+
+[( ↥ Back to top ↥ )](#faq-and-navigation)
 
 - - -
 
@@ -108,6 +110,9 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 #### **How do I become a Full <span style="color:#0066ff">[Member]</span>**?
 
 > - Play on the Minecraft server, talk in the Discord server; and get to know the community. Becoming a full member doesn't take terrible long.
+
+[( ↥ Back to top ↥ )](#faq-and-navigation)
+
 - - -
 
 # <span style="color:#26a9e5">**[Member]**</span> Full Member - How to Become - Privileges - Commands -
@@ -135,7 +140,8 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 > - <span style="color:orange">**5 shops**</span> with <span style="color:orange">**1 location**</span> for <span style="color:orange">***each shop***</span>.
 > - <span style="color:orange">**512 Total Items**</span> in your shop listing for each shop.
 > - <span style="color:orange">**10 Claims**</span>.
-> 
+
+[( ↥ Back to top ↥ )](#faq-and-navigation)
 
 - - -
 
@@ -155,12 +161,16 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 > - <span style="color:orange">**Donate to our streamers**</span>
 >   - [xCobraRL](http://twitch.tv/xCobraRL) | [jesssssss__](http://twitch.tv/jesssssss__)
 
+[( ↥ Back to top ↥ )](#faq-and-navigation)
+
 - - -
 
 # Interested in becoming <span style="color:red">**[Staff]**</span>?
 Staff is reserved for long-time regulars of our community that have gained a large amount of trust. If you want to become Staff on the Minecraft Server, hang out with us for a long time and let us get to know you.
 
 There are no guarantees, though. You may become a long time member and never get promoted to staff.
+
+[( ↥ Back to top ↥ )](#faq-and-navigation)
 
 - - -
 
@@ -181,6 +191,8 @@ There are no guarantees, though. You may become a long time member and never get
 >       - You may trade items with players but currency trading is disabled. This is to encourage players to use shops from within their claims to sell items.
 >           - <span style="color:orange">**Why?** To encourage people to build more closely together and more importantly, to encourage players to explore and visit other's creations.</span>
 >       - <span style="color:red">**NOTE: Item Dropping is currently  also disabled to keep players from bypassing the no-trading restriction.**</span>
+
+[( ↥ Back to top ↥ )](#faq-and-navigation)
 
 - - -
 
@@ -207,7 +219,7 @@ There are no guarantees, though. You may become a long time member and never get
 > - To make a <span style="color:orange">**CHEST CLAIM**</span>, simply place a chest on a plot of land <span style="color:orange">**where there isn't already a claim**</span>.
 > - To make a <span style="color:orange">**GOLDEN SHOVEL CLAIM**</span>, you must first equip a <span style="color:orange">**Golden Shovel**![Golden Shovel](https://raw.githubusercontent.com/sammikinsrox/Rendered-Minecraft-Icons/main/img/30px/png/Golden_Shovel_JE3_BE2.png)</span> then right click the ground where you want one corners of your claim to be. <span style="color:orange">**NOTE: You only need to select two opposing corners** ↖↘</span>.
 
-#### **How to <span style="color:orange">RENT</span> or <span style="color:orange">SELL</span> a claim.**
+### **How to <span style="color:orange">RENT</span> or <span style="color:orange">SELL</span> a claim.**
 >   - On the sign text enter:
 >       - `gd`
 >       - `rent` or `sell`
@@ -219,6 +231,8 @@ There are no guarantees, though. You may become a long time member and never get
 >           ![Sign_Example](https://github.com/sammikinsrox/xCobraRLMC-PlayerGuide/blob/main/img/rent_example.png?raw=true) (<span style="color:#33cc33">**100**</span> per day for <span style="color:#cccc00">**7**</span> days = `700` total cost)
 > 
 >           ![Sign Example](https://github.com/sammikinsrox/xCobraRLMC-PlayerGuide/blob/main/img/sell_example.png?raw=true) (Sell this claim for a one time cost of `2500`)
+
+[( ↥ Back to top ↥ )](#faq-and-navigation)
 
 - - -
 
@@ -261,5 +275,7 @@ There are no guarantees, though. You may become a long time member and never get
 >   - <span style="color:orange">**CLICK**</span> the <span style="color:orange">**CHEST**</span> ![Chest](https://raw.githubusercontent.com/sammikinsrox/Rendered-Minecraft-Icons/main/img/30px/png/Chest_JE2.png)
 > - Then open your shop with `/pshop <YourName>`
 > - Locate the shop you would like to delete and press `Q`
+
+[( ↥ Back to top ↥ )](#faq-and-navigation)
 
 - - -
