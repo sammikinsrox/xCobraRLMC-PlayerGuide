@@ -16,7 +16,7 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 > - [Jesssssss__](https://www.twitch.tv/jesssssss__)
 
 ### <span style="color:#00cc00">**Can't move when you first join?**</span>
-> - [Read This](#when-you-first-join-guest)
+> - [Read This](#when-you-first-join-you-will-be-unable-to-move-or-chat)
 
 - - -
 
