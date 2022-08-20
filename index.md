@@ -22,48 +22,56 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 > - <span style="color:#00ccff">**[Mod]**</span> *Jess*
 > - <span style="color:#00ccff">**[Mod]**</span> *Cobra*
 
-### <span style="color:#00cc00">**Can't move when you first join?**</span>
-> - [Read This](#when-you-first-join-you-will-be-unable-to-move-or-chat)
+### <span style="color:#00cc00">**HELP! I can't:**</span>
+> - [Help! I can't Move or Chat](#when-you-first-join-you-will-be-unable-to-move-or-chat)
+> - <span style="color:red">**Help! I can't drop items**</span>
+>   - To throw items away use `/disposal`
+>   - To give items to another player `CROUCH` then RIGHT `CLICK` on the player you wish to trade items with
+>   - To sell items [Setup A Shop](#shops-faq)
 
 - - -
 
 # FAQ and Navigation
 
 - [Welcome to the Minecraft Server.](#welcome-to-the-minecraft-server)
-    - [Want to know how to connect?](#reading-this-and-want-to-know-how-to-connect)
+    - [Reading this and want to know how to connect?](#reading-this-and-want-to-know-how-to-connect)
     - [Discord](#discord)
     - [Main Content Creators of our Community](#main-content-creators-of-our-community)
-    - [<span style="color:#00cc00">**Can't move when you first join?**</span>](#cant-move-when-you-first-join)
+    - [Staff Members](#staff-members)
+    - [<span style="color:#00cc00">**HELP! I can't:**</span>](#help-i-cant)
 - [FAQ and Navigation](#faq-and-navigation)
 - [When you first join!](#when-you-first-join)
-    - [**<span style="color:red">_When you first join you will be unable to move or chat._</span>**](#when-you-first-join-you-will-be-unable-to-move-or-chat)
-- [<span style="color:#00cc00">**[Guest]**</span> Server Guest - Privileges - Commands -](#guest-server-guest---privileges---commands--)
-    - [**You Can:**](#you-can)
-    - [**You Can't:**](#you-cant)
-    - [**Limitations:**](#limitations)
-      - [**How do I become a Full <span style="color:#0066ff">[Member]</span>**?](#how-do-i-become-a-full-member)
+  - [**<span style="color:red">_When you first join you will be unable to move or chat._</span>**](#when-you-first-join-you-will-be-unable-to-move-or-chat)
+- [<span style="color:#00cc00">**[Guest]**</span> Server Guest - Privileges - Commands](#guest-server-guest---privileges---commands)
+  - [**You Can:**](#you-can)
+  - [**You Can't:**](#you-cant)
+  - [**Limitations:**](#limitations)
+  - [**How do I become a Full <span style="color:#0066ff">[Member]</span>**?](#how-do-i-become-a-full-member)
 - [<span style="color:#26a9e5">**[Member]**</span> Full Member - How to Become - Privileges - Commands -](#member-full-member---how-to-become---privileges---commands--)
-    - [**You Can:**](#you-can-1)
-    - [**Limitations:**](#limitations-1)
+  - [**You Can:**](#you-can-1)
+  - [Limitations:](#limitations-1)
 - [<span style="color:#00cc00">**[VIP]**</span> VIP Member - How to Become - Privileges - Commands -](#vip-vip-member---how-to-become---privileges---commands--)
-    - [**Limitations:**](#limitations-2)
-    - [How do I become a <span style="color:#00cc00">**[VIP]**</span> member?](#how-do-i-become-a-vip-member)
-- [Interested in becoming <span style="color:red">**[Staff]**</span>?](#interested-in-becoming-staff)
+  - [Limitations:](#limitations-2)
+  - [How do I become a <span style="color:#00cc00">**[VIP]**</span> member?](#how-do-i-become-a-vip-member)
+  - [Interested in becoming <span style="color:red">**[Staff]**</span>?](#interested-in-becoming-staff)
 - [Economy FAQ](#economy-faq)
-    - [Can I trade with players?](#can-i-trade-with-players)
+  - [What is the currency of the server?](#what-is-the-currency-of-the-server)
+  - [How do I earn more <span style="color:#00cc00">Ψ</span>?](#how-do-i-earn-more-ψ)
+  - [Can I trade with players?](#can-i-trade-with-players)
 - [Land Claim FAQ](#land-claim-faq)
-    - [How to make a claim](#how-to-make-a-claim)
-    - [How can I claim more land?](#how-can-i-claim-more-land)
-    - [How do I get more claim blocks?](#how-do-i-get-more-claim-blocks)
-    - [I receive the message: <span style="color:red">**"You don't have enough blocks to claim that entire area.**"</span>](#i-receive-the-message-you-dont-have-enough-blocks-to-claim-that-entire-area)
-    - [**Claim Walkthrough: Creating Chest and Golden Shovel Claims**](#claim-walkthrough-creating-chest-and-golden-shovel-claims)
-    - [**How to <span style="color:orange">RENT</span> or <span style="color:orange">SELL</span> a claim.**](#how-to-rent-or-sell-a-claim)
+  - [How to make a claim](#how-to-make-a-claim)
+  - [How can I claim more land?](#how-can-i-claim-more-land)
+  - [How do I get more claim blocks?](#how-do-i-get-more-claim-blocks)
+    - [I receive the message: <span style="color:red">**You don't have enough blocks to claim that entire area.**"</span>](#i-receive-the-message-you-dont-have-enough-blocks-to-claim-that-entire-area)
+  - [**Claim Walkthrough: Creating Chest and Golden Shovel Claims**](#claim-walkthrough-creating-chest-and-golden-shovel-claims)
+  - [How to <span style="color:orange">RENT</span> or <span style="color:orange">**SELL**</span> a claim.](#how-to-rent-or-sell-a-claim)
 - [Shops FAQ](#shops-faq)
-    - [Open your shop interface with `/pshop <YourName>`](#open-your-shop-interface-with-pshop-yourname)
-    - [How do I create a shop?](#how-do-i-create-a-shop)
-    - [How do I edit a shop?](#how-do-i-edit-a-shop)
-    - [Can I add more than one location for the same shop?](#can-i-add-more-than-one-location-for-the-same-shop)
-    - [How do I delete my shop location?](#how-do-i-delete-my-shop-location)
+  - [Open your shop interface with `/pshop <YourName>`](#open-your-shop-interface-with-pshop-yourname)
+  - [How do I create a shop?](#how-do-i-create-a-shop)
+  - [How do I edit a shop?](#how-do-i-edit-a-shop)
+  - [Can I add more than one location for the same shop?](#can-i-add-more-than-one-location-for-the-same-shop)
+  - [How do I delete my shop location?](#how-do-i-delete-my-shop-location)
+  - [How do I delete my shop?](#how-do-i-delete-my-shop)
 
 
 - - -
