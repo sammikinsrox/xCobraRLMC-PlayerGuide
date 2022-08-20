@@ -1,4 +1,39 @@
-# <span style="color:#26a9e5">**[Member]**</span> Full Member - How to Become - Privileges - Commands -
+#Membership Levels
+## <span style="color:#00cc00">**[Guest]**</span> Server Guest - Privileges - Commands -
+
+### **You Can:**
+> - Interact with blocks (Not place or destroy blocks).
+> - Craft Items in benches that have already been placed.
+> - Interact with shops and banks.
+> - Interact with signs. Such as land claim signs.
+> - Be attacked and killed by creatures.
+> - Attack and Kill creatures.
+> - Pick up loot and money from creatures.
+> - Walk around and look at the builds.
+> - Tame animals.
+> - Buy from players.
+> - Use `/disposal` to throw away stuff you don't want
+> - <span style="color:#00cc66">***Be an kind and amazing person***</span> ❤️
+
+### **You Can't:**
+> - Break Blocks. (<span style="color:orange">You must be promoted to gain permission</span>)
+> - Place Blocks. (<span style="color:orange">You must be promoted to gain permission</span>)
+> - Claim Land. (<span style="color:orange">You must be promoted to gain permission</span>)
+> - Destroy other people's claims.
+> - <span style="color:red">**Break the rules. You'll be removed.**</span>
+
+### **Limitations:**
+> - <span style="color:orange">**0 shops**</span> with <span style="color:orange">**0 location**</span> for <span style="color:orange">***each shop***</span>.
+> - <span style="color:orange">**0 Claims**</span>.
+> - <span style="color:orange">**512 Total Items**</span> in your shop listing.
+> - For more perks, see <span style="color:#0066ff">**[Member]**</span>
+
+#### **How do I become a Full <span style="color:#0066ff">[Member]</span>**?
+
+> - Play on the Minecraft server, talk in the Discord server; and get to know the community. Becoming a full member doesn't take terrible long.
+- - -
+
+## <span style="color:#26a9e5">**[Member]**</span> Full Member - How to Become - Privileges - Commands -
 
 ### **You Can:**
 - #### **Land Claims**:
@@ -27,7 +62,7 @@
 
 - - -
 
-# <span style="color:#00cc00">**[VIP]**</span> VIP Member - How to Become - Privileges - Commands -
+## <span style="color:#00cc00">**[VIP]**</span> VIP Member - How to Become - Privileges - Commands -
 
 ### **Limitations:**
 > - All of the information listed for <span style="color:#00cc00">**[Guest]**</span> and <span style="color:#26a9e5">**[Member]**</span> in addition to.
@@ -42,12 +77,3 @@
 >   - Make sure you told me if you've donated!
 > - <span style="color:orange">**Donate to our streamers**</span>
 >   - [xCobraRL](http://twitch.tv/xCobraRL) | [jesssssss__](http://twitch.tv/jesssssss__)
-
-- - -
-
-# Interested in becoming <span style="color:red">**[Staff]**</span>?
-Staff is reserved for long-time regulars of our community that have gained a large amount of trust. If you want to become Staff on the Minecraft Server, hang out with us for a long time and let us get to know you.
-
-There are no guarantees, though. You may become a long time member and never get promoted to staff.
-
-- - -
