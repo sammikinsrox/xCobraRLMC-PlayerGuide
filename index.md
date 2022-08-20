@@ -20,7 +20,7 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 > - <span style="color:orange">**[ENGINEER]**</span> *Sam* (Discord: **Sammikinz#9480**)
 > - <span style="color:green">**[Administrator]**</span> *Ceehvu* (Discord: **Ceehvu#8086**)
 > - <span style="color:#00ccff">**[Mod]**</span> *Jess*
-> - <span style="color:#00ccffe">**[Mod]**</span> *Cobra*
+> - <span style="color:#00ccff">**[Mod]**</span> *Cobra*
 
 ### <span style="color:#00cc00">**Can't move when you first join?**</span>
 > - [Read This](#when-you-first-join-you-will-be-unable-to-move-or-chat)
