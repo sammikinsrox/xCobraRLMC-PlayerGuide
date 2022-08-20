@@ -182,6 +182,7 @@ There are no guarantees, though. You may become a long time member and never get
 >       - You may trade items with players but currency trading is disabled. This is to encourage players to use shops from within their claims to sell items.
 >           - <span style="color:orange">**Why?** To encourage people to build more closely together and more importantly, to encourage players to explore and visit other's creations.</span>
 >       - <span style="color:red">**NOTE: Item Dropping is currently  also disabled to keep players from bypassing the no-trading restriction.**</span>
+
 - - -
 
 # Land Claim FAQ
