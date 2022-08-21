@@ -42,6 +42,7 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 - [FAQ and Navigation](#faq-and-navigation)
 - [When you first join!](#when-you-first-join)
   - [**<span style="color:red">_When you first join you will be unable to move or chat._</span>**](#when-you-first-join-you-will-be-unable-to-move-or-chat)
+- [I joined, now what do I do?](#i-joined-now-what-do-i-do)
 - [<span style="color:#00cc00">**[Guest]**</span> Server Guest - Privileges - Commands](#guest-server-guest---privileges---commands)
   - [**You Can:**](#you-can)
   - [**You Can't:**](#you-cant)
@@ -98,6 +99,23 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 ![How to link](https://i.imgur.com/xfa62rP.png)
 
 [( ↥ Back to top ↥ )](#faq-and-navigation)
+
+- - -
+
+# <span style="color:#00cc00">WELCOME!</span> I joined, now what do I do?
+
+> - <span style="color:#00cc00">Think of the server as "Vanilla Plus". You do normal vanilla things with a few added perks and restrictions.</span>
+> - <span style="color:#00cc00">You can earn money (Platine) by killing creatures, selling items to shops (Only the items they have listed), or setting up your own shop to sell items.</span>
+
+> - <span style="color:red">**Restriction:** You cannot build in other people's claims or admin claims.</span>
+> - <span style="color:#00cc00">**Perk:**</span> You can build in the wilderness.
+> - <span style="color:#00cc00">**Perk:**</span> You can create and manage your own private claim. 
+> - <span style="color:#00cc00">**Perk:**</span> You create basic claims, town claims, and subdivision claims.
+
+> - <span style="color:red">**Restriction:** You cannot drop items.</span>
+> - <span style="color:#00cc00">**Perk:**</span> You can use `/disposal` to throw away items
+> - <span style="color:#00cc00">**Perk:**</span> You can trade with players by <span style="color:orange">**CROUCHING**</span> and <span style="color:orange">**RIGHT CLICKING**</span> the player you want to trade with.
+> - <span style="color:#00cc00">**Perk:**</span> You can setup a shop to sell items while you are offline.
 
 - - -
 
