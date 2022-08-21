@@ -66,6 +66,7 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
     - [I receive the message: <span style="color:red">**You don't have enough blocks to claim that entire area.**"</span>](#i-receive-the-message-you-dont-have-enough-blocks-to-claim-that-entire-area)
   - [**Claim Walkthrough: Creating Chest and Golden Shovel Claims**](#claim-walkthrough-creating-chest-and-golden-shovel-claims)
   - [How to <span style="color:orange">RENT</span> or <span style="color:orange">**SELL**</span> a claim.](#how-to-rent-or-sell-a-claim)
+  - [How do I manage my claim?](#how-do-i-manage-my-claim)
 - [Shops FAQ](#shops-faq)
   - [Open your shop interface with `/pshop <YourName>`](#open-your-shop-interface-with-pshop-yourname)
   - [How do I create a shop?](#how-do-i-create-a-shop)
@@ -280,6 +281,10 @@ There are no guarantees, though. You may become a long time member and never get
 >           ![Sign_Example](https://github.com/sammikinsrox/xCobraRLMC-PlayerGuide/blob/main/img/rent_example.png?raw=true) (<span style="color:#33cc33">**100**</span> per day for <span style="color:#cccc00">**7**</span> days = `700` total cost)
 > 
 >           ![Sign Example](https://github.com/sammikinsrox/xCobraRLMC-PlayerGuide/blob/main/img/sell_example.png?raw=true) (Sell this claim for a one time cost of `2500`)
+
+## How do I manage my claim?
+> - Your claim is managed through <span style="color:orange">**"flags"**</span>. You can set what other people do within your claim by adjusting the flags.
+> - <span style="color:orange">**You can access flags and other claim information**</span> by entering your claim and typing `/gd` or `/cf`
 
 [( ↥ Back to top ↥ )](#faq-and-navigation)
 
