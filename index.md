@@ -42,7 +42,7 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 - [FAQ and Navigation](#faq-and-navigation)
 - [When you first join!](#when-you-first-join)
   - [**<span style="color:red">_When you first join you will be unable to move or chat._</span>**](#when-you-first-join-you-will-be-unable-to-move-or-chat)
-- [<span style="color:#00cc00">WELCOME!</span> I joined, now what do I do?](#welcome-i-joined-now-what-do-i-do)
+- [<span style="color:#00cc00">**WELCOME!**</span> <span style="color:orange">**I joined, now what do I do?**</span>](#welcome-i-joined-now-what-do-i-do)
 - [<span style="color:#00cc00">**[Guest]**</span> Server Guest - Privileges - Commands](#guest-server-guest---privileges---commands)
   - [**You Can:**](#you-can)
   - [**You Can't:**](#you-cant)
@@ -102,7 +102,7 @@ Then feel free to ask your question in <span style="color:#00cc00">**#minecraft-
 
 - - -
 
-# <span style="color:#00cc00">WELCOME!</span> I joined, now what do I do?
+# <span style="color:#00cc00">**WELCOME!**</span> <span style="color:orange">**I joined, now what do I do?**</span>
 
 > - <span style="color:#00cc00">Think of the server as "Vanilla Plus". You do normal vanilla things with a few added perks and restrictions.</span>
 > - <span style="color:#00cc00">You can earn money (Platine) by killing creatures, selling items to shops (Only the items they have listed), or setting up your own shop to sell items.</span>
